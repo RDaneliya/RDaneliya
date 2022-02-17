@@ -39,7 +39,7 @@ I am passionate solving challenging issues and improving my skills.
 
 **🔥 &nbsp; My Stats**
 
-[![Repos stats](https://github-readme-stats.vercel.app/api?username=RDaneliya&theme=codeSTACKr&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)]
+[![Repos stats](https://github-readme-stats.vercel.app/api?username=RDaneliya&theme=codeSTACKr&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RDaneliya&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
