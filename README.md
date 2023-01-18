@@ -32,18 +32,6 @@ I am passionate solving challenging issues and improving my skills.
 </div>
 <br/>
 
----
-
-<h1 align="center"><img src="https://media4.giphy.com/media/KpACNEh8jXK2Q/giphy.gif?cid=ecf05e477bdmp1oluwjkpvpkm38dietsua99hzuosoh5e0si&rid=giphy.gi" width="500">
-</h1>
-
-**🔥 &nbsp; My Stats**
-
-[![Repos stats](https://github-readme-stats.vercel.app/api?username=RDaneliya&theme=codeSTACKr&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RDaneliya&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDaneliya&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
