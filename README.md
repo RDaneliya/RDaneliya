@@ -2,7 +2,7 @@
 Hi I'm Roman - Java Developer.
 I am passionate solving challenging issues and improving my skills.
 
-- ⚡ I’m working as a Junior Backend Developer
+- ⚡ I’m working as a Backend Developer
 - 🔎 Exploring interesting technologies.
 - ⚔️ Doing HEMA fencing
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-daneliya/)
