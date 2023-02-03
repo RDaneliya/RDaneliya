@@ -1,5 +1,5 @@
 
-Hi I'm Roman - junior Java Developer.
+Hi I'm Roman - Java Developer.
 I am passionate solving challenging issues and improving my skills.
 
 - ⚡ I’m working as a Junior Backend Developer
